@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Tanya's Baking 🎂
 
-## Getting Started
+A premium, high-performance portfolio website for **Tanya's Baking**, a home-grown FSSAI-approved baking studio in Madambakkam, Chennai.
 
-First, run the development server:
+![Tanya's Baking Preview](src/data/about.jpeg)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## ✨ Features
+
+- **🎨 Premium Design**: Modern, dark-themed UI with glassmorphism effects, smooth gradients, and animated interactions.
+- **📱 Fully Responsive**: Optimized for all devices, from mobile phones to large desktop screens.
+- **📸 Instagram Integration**:
+  - **Live Portfolio**: Fetches and displays real Instagram posts directly in the gallery.
+  - **Smart Embedding**: Uses optimized iframes that fit perfectly within custom-designed cards.
+  - **Direct Linking**: Cards link directly to the original Instagram posts for engagement.
+- **⚡ High Performance**:
+  - **Lazy Loading**: Instagram embeds load only when scrolled into view.
+  - **Next.js 14**: Built on the latest React framework for speed and SEO.
+  - **Optimized Assets**: Automatic image optimization and font loading.
+- **🔍 SEO Optimized**:
+  - **Meta Tags**: Comprehensive Open Graph and Twitter card support.
+  - **JSON-LD**: Structured data for rich search results.
+  - **Accessibility**: Semantic HTML and ARIA labels for better accessibility scores.
+- **📝 Easy Content Management**: All text and portfolio data is managed via a single `src/data/content.json` file.
+
+## 🛠️ Tech Stack
+
+- **Framework**: [Next.js 14](https://nextjs.org/) (App Router)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Font**: [Outfit](https://fonts.google.com/specimen/Outfit) (Google Fonts)
+
+## 🚀 Getting Started
+
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/tanyas-bakery.git
+    cd tanyas-bakery
+    ```
+
+2.  **Install dependencies**:
+    ```bash
+    npm install
+    ```
+
+3.  **Run the development server**:
+    ```bash
+    npm run dev
+    ```
+
+4.  **Open your browser**:
+    Visit [http://localhost:3000](http://localhost:3000) to see the site live.
+
+## 📂 Project Structure
+
+```
+tanyas-bakery/
+├── public/              # Static assets (images, icons)
+├── src/
+│   ├── app/             # Next.js App Router pages & layout
+│   ├── components/      # Reusable UI components (Hero, Portfolio, etc.)
+│   ├── data/            # JSON content database
+│   └── lib/             # Utility functions
+├── .gitignore           # Git ignore rules
+├── next.config.mjs      # Next.js configuration
+├── tailwind.config.ts   # Tailwind CSS configuration
+└── README.md            # Project documentation
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📝 Managing Content
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To update website content, simply edit `src/data/content.json`.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### **Adding Portfolio Items**
+Add a new object to the `portfolio.items` array:
 
-## Learn More
+```json
+{
+  "id": 30,
+  "category": "Theme-based cakes",
+  "title": "New Cake Design",
+  "description": "Description of the cake",
+  "instagramUrl": "https://www.instagram.com/p/POST_ID/"
+}
+```
 
-To learn more about Next.js, take a look at the following resources:
+The website will automatically generate the embed and display it in the correct category.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚢 Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project is optimized for deployment on [Vercel](https://vercel.com/).
 
-## Deploy on Vercel
+1.  Push your code to a GitHub repository.
+2.  Import the project in Vercel.
+3.  Click **Deploy**.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📄 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© 2025 Tanya's Baking. All Rights Reserved.

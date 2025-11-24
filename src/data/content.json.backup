@@ -1,0 +1,620 @@
+{
+    "hero": {
+        "headline": "Handcrafted Custom Cakes & Baking Classes — FSSAI Approved",
+        "subHeadline": "Freshly made, theme-based cakes for every celebration • Professional baking workshops for beginners & enthusiasts.",
+        "cta": "Enquire Now",
+        "notes": [
+            "Minimum 3 Days Pre-Order",
+            "Madambakkam, Chennai",
+            "Online & Offline Classes Available"
+        ]
+    },
+    "about": {
+        "title": "About Tanya’s Baking",
+        "body": "Tanya’s Baking is a home-grown, FSSAI-approved baking studio based in Madambakkam, Chennai.\nWith over 900+ cakes crafted and multiple batches of baking students trained, Tanya brings a personal touch and professional finish to every creation.",
+        "specialties": [
+            "Custom theme cakes",
+            "Eggless & dietary-friendly options",
+            "Beginner to advanced baking classes",
+            "Brownies, cupcakes & dessert varieties"
+        ],
+        "closing": "Every cake is made with care, detail, and a passion for bringing your celebration moments to life.",
+        "highlight": "🏆 Received “Most Creative Design Cake” Award — November 2024",
+        "image": "about.jpeg"
+    },
+    "services": {
+        "title": "What We Offer",
+        "cards": [
+            {
+                "title": "Custom Cakes",
+                "description": "Perfect for birthdays, weddings, kids’ themes, corporate events and more. Choose your flavour, size and design — from tiered cakes to rotating cakes, object-shaped designs and personalised concepts.",
+                "features": [
+                    "Theme-based cakes",
+                    "Tiered cakes",
+                    "Rotating cakes",
+                    "Object/character cakes",
+                    "Brownies & cupcakes add-ons"
+                ]
+            },
+            {
+                "title": "Baking Classes",
+                "description": "Whether you're a beginner or looking to upgrade your skills, our structured classes help you bake confidently.",
+                "subSections": [
+                    {
+                        "title": "Online Class (3 Hours)",
+                        "items": [
+                            "Basic cake baking",
+                            "Brownies",
+                            "Cookies",
+                            "Live guidance & hands-on learning"
+                        ]
+                    },
+                    {
+                        "title": "Offline Class",
+                        "items": [
+                            "Beginner & advanced modules",
+                            "Includes certificate",
+                            "Custom Canva templates provided",
+                            "Conducted at Madambakkam, Chennai"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "portfolio": {
+        "title": "Our Work",
+        "categories": [
+            "All",
+            "Theme-based cakes",
+            "Tier Cakes",
+            "Object Shaped",
+            "Brownies",
+            "Cupcakes",
+            "Rotating Cakes"
+        ],
+        "caption": "Every cake is handcrafted with precision, ensuring taste + design that stands out.",
+        "items": [
+            {
+                "id": 1,
+                "category": "Theme-based cakes",
+                "title": "Elegant Theme Cake",
+                "description": "Beautiful themed cake with intricate details",
+                "instagramUrl": "https://www.instagram.com/p/DQ32aZyErb3/?hl=en"
+            },
+            {
+                "id": 2,
+                "category": "Theme-based cakes",
+                "title": "Custom Theme Design",
+                "description": "Personalized theme cake for special celebration",
+                "instagramUrl": "https://www.instagram.com/p/DQ31oA_kmly/?hl=en"
+            },
+            {
+                "id": 3,
+                "category": "Theme-based cakes",
+                "title": "Celebration Theme Cake",
+                "description": "Vibrant themed cake perfect for any occasion",
+                "instagramUrl": "https://www.instagram.com/p/DQRbstRkotM/?hl=en"
+            },
+            {
+                "id": 4,
+                "category": "Theme-based cakes",
+                "title": "Artistic Theme Creation",
+                "description": "Handcrafted theme cake with artistic flair",
+                "instagramUrl": "https://www.instagram.com/p/DOp2gZMktK1/?hl=en"
+            },
+            {
+                "id": 5,
+                "category": "Theme-based cakes",
+                "title": "Designer Theme Cake",
+                "description": "Premium themed cake with elegant design",
+                "instagramUrl": "https://www.instagram.com/p/DOp1zjVElHm/?hl=en"
+            },
+            {
+                "id": 6,
+                "category": "Theme-based cakes",
+                "title": "Special Theme Cake",
+                "description": "Unique themed design for memorable moments",
+                "instagramUrl": "https://www.instagram.com/p/DOVyLXekvPg/?hl=en&img_index=1"
+            },
+            {
+                "id": 7,
+                "category": "Tier Cakes",
+                "title": "Multi-Tier Elegance",
+                "description": "Stunning tiered cake for grand celebrations",
+                "instagramUrl": "https://www.instagram.com/p/DQRcEH6ElTQ/?hl=en"
+            },
+            {
+                "id": 8,
+                "category": "Tier Cakes",
+                "title": "Classic Tiered Design",
+                "description": "Traditional multi-tier cake with modern touch",
+                "instagramUrl": "https://www.instagram.com/p/DO-T6IIEnLb/?hl=en&img_index=1"
+            },
+            {
+                "id": 9,
+                "category": "Tier Cakes",
+                "title": "Luxury Tier Cake",
+                "description": "Premium tiered cake with gold accents",
+                "instagramUrl": "https://www.instagram.com/p/DO-TiCbEqaw/?hl=en&img_index=1"
+            },
+            {
+                "id": 10,
+                "category": "Tier Cakes",
+                "title": "Wedding Tier Cake",
+                "description": "Elegant wedding cake with floral details",
+                "instagramUrl": "https://www.instagram.com/p/DOp2IehkuW4/?hl=en"
+            },
+            {
+                "id": 11,
+                "category": "Tier Cakes",
+                "title": "Grand Celebration Tier",
+                "description": "Majestic tiered cake for special events",
+                "instagramUrl": "https://www.instagram.com/p/DOp1iXdEvca/?hl=en&img_index=1"
+            },
+            {
+                "id": 12,
+                "category": "Tier Cakes",
+                "title": "Classic White Tier",
+                "description": "Timeless white tiered cake design",
+                "instagramUrl": "https://www.instagram.com/p/DLNEFxtyyyp/?hl=en"
+            },
+            {
+                "id": 13,
+                "category": "Object Shaped",
+                "title": "3D Object Cake",
+                "description": "Realistic object-shaped cake creation",
+                "instagramUrl": "https://www.instagram.com/p/DJo3FjhTCM5/?hl=en&img_index=1"
+            },
+            {
+                "id": 14,
+                "category": "Object Shaped",
+                "title": "Sculpted Object Design",
+                "description": "Intricately sculpted object cake",
+                "instagramUrl": "https://www.instagram.com/p/DHGxQQroaGr/?hl=en"
+            },
+            {
+                "id": 15,
+                "category": "Object Shaped",
+                "title": "Custom Object Cake",
+                "description": "Personalized object-shaped masterpiece",
+                "instagramUrl": "https://www.instagram.com/p/DFUZHx1SZoY/?hl=en"
+            },
+            {
+                "id": 16,
+                "category": "Object Shaped",
+                "title": "Realistic Object Replica",
+                "description": "Amazingly realistic object cake",
+                "instagramUrl": "https://www.instagram.com/p/DFFb0c7ygPw/?hl=en"
+            },
+            {
+                "id": 17,
+                "category": "Object Shaped",
+                "title": "Creative Object Design",
+                "description": "Innovative object-shaped cake",
+                "instagramUrl": "https://www.instagram.com/p/DADpUxoSX7G/?hl=en"
+            },
+            {
+                "id": 18,
+                "category": "Object Shaped",
+                "title": "Detailed Object Cake",
+                "description": "Meticulously crafted object cake",
+                "instagramUrl": "https://www.instagram.com/p/C500pUhSkAI/?hl=en"
+            },
+            {
+                "id": 19,
+                "category": "Brownies",
+                "title": "Gourmet Brownies",
+                "description": "Rich, fudgy chocolate brownies",
+                "instagramUrl": "https://www.instagram.com/p/DKgwJyMyNMW/?hl=en"
+            },
+            {
+                "id": 20,
+                "category": "Brownies",
+                "title": "Premium Brownies",
+                "description": "Decadent chocolate brownies with toppings",
+                "instagramUrl": "https://www.instagram.com/p/DGVSJe1Ir_E/?hl=en"
+            },
+            {
+                "id": 21,
+                "category": "Brownies",
+                "title": "Classic Brownies",
+                "description": "Traditional fudgy brownies",
+                "instagramUrl": "https://www.instagram.com/p/C5r7gRWy_TN/?hl=en"
+            },
+            {
+                "id": 22,
+                "category": "Cupcakes",
+                "title": "Designer Cupcakes",
+                "description": "Beautifully decorated cupcake collection",
+                "instagramUrl": "https://www.instagram.com/p/DGQl84xSVo7/?hl=en"
+            },
+            {
+                "id": 23,
+                "category": "Cupcakes",
+                "title": "Gourmet Cupcakes",
+                "description": "Premium cupcakes with creative frosting",
+                "instagramUrl": "https://www.instagram.com/p/C7d-4_byj8i/?hl=en"
+            },
+            {
+                "id": 24,
+                "category": "Cupcakes",
+                "title": "Artisan Cupcakes",
+                "description": "Handcrafted cupcakes with unique flavors",
+                "instagramUrl": "https://www.instagram.com/p/C7OmC6TSv-z/?hl=en"
+            },
+            {
+                "id": 25,
+                "category": "Cupcakes",
+                "title": "Celebration Cupcakes",
+                "description": "Festive cupcakes for special occasions",
+                "instagramUrl": "https://www.instagram.com/p/C6_su7qSS-O/?hl=en"
+            },
+            {
+                "id": 26,
+                "category": "Cupcakes",
+                "title": "Elegant Cupcakes",
+                "description": "Sophisticated cupcake designs",
+                "instagramUrl": "https://www.instagram.com/p/C6xrOTdSCgH/?hl=en"
+            },
+            {
+                "id": 27,
+                "category": "Cupcakes",
+                "title": "Deluxe Cupcakes",
+                "description": "Luxury cupcake assortment",
+                "instagramUrl": "https://www.instagram.com/p/C26pVnrv7k7/?hl=en&img_index=1"
+            },
+            {
+                "id": 28,
+                "category": "Rotating Cakes",
+                "title": "Musical Rotating Cake",
+                "description": "Magical rotating cake with music",
+                "instagramUrl": "https://www.instagram.com/p/DKV_7ufywRP/?hl=en"
+            },
+            {
+                "id": 29,
+                "category": "Rotating Cakes",
+                "title": "Carousel Rotating Cake",
+                "description": "Enchanting carousel cake with rotating mechanism",
+                "instagramUrl": "https://www.instagram.com/p/C-pGJI4SgLM/?hl=en&img_index=1"
+            }
+        ]
+    },
+    "testimonials": {
+        "categories": [
+            "All",
+            "Theme-based cakes",
+            "Tier Cakes",
+            "Object Shaped",
+            "Brownies",
+            "Cupcakes",
+            "Rotating Cakes"
+        ],
+        "caption": "Every cake is handcrafted with precision, ensuring taste + design that stands out.",
+        "items": [
+            {
+                "id": 1,
+                "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=800&auto=format&fit=crop",
+                "category": "Theme-based cakes",
+                "title": "Elegant Theme Cake",
+                "description": "Beautiful themed cake with intricate details",
+                "likes": 234,
+                "comments": 18,
+                "instagramUrl": "https://www.instagram.com/p/DQ32aZyErb3/?hl=en"
+            },
+            {
+                "id": 2,
+                "image": "https://images.unsplash.com/photo-1563729768640-d36d4999a33e?q=80&w=800&auto=format&fit=crop",
+                "category": "Theme-based cakes",
+                "title": "Custom Theme Design",
+                "description": "Personalized theme cake for special celebration",
+                "likes": 456,
+                "comments": 32,
+                "instagramUrl": "https://www.instagram.com/p/DQ31oA_kmly/?hl=en"
+            },
+            {
+                "id": 3,
+                "image": "https://images.unsplash.com/photo-1535141192574-5d4897c12636?q=80&w=800&auto=format&fit=crop",
+                "category": "Theme-based cakes",
+                "title": "Celebration Theme Cake",
+                "description": "Vibrant themed cake perfect for any occasion",
+                "likes": 567,
+                "comments": 45,
+                "instagramUrl": "https://www.instagram.com/p/DQRbstRkotM/?hl=en"
+            },
+            {
+                "id": 4,
+                "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop",
+                "category": "Theme-based cakes",
+                "title": "Artistic Theme Creation",
+                "description": "Handcrafted theme cake with artistic flair",
+                "likes": 389,
+                "comments": 28,
+                "instagramUrl": "https://www.instagram.com/p/DOp2gZMktK1/?hl=en"
+            },
+            {
+                "id": 5,
+                "image": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?q=80&w=800&auto=format&fit=crop",
+                "category": "Theme-based cakes",
+                "title": "Designer Theme Cake",
+                "description": "Premium themed cake with elegant design",
+                "likes": 298,
+                "comments": 21,
+                "instagramUrl": "https://www.instagram.com/p/DOp1zjVElHm/?hl=en"
+            },
+            {
+                "id": 6,
+                "image": "https://images.unsplash.com/photo-1557308536-ee471ef2c39a?q=80&w=800&auto=format&fit=crop",
+                "category": "Theme-based cakes",
+                "title": "Special Theme Cake",
+                "description": "Unique themed design for memorable moments",
+                "likes": 412,
+                "comments": 35,
+                "instagramUrl": "https://www.instagram.com/p/DOVyLXekvPg/?hl=en&img_index=1"
+            },
+            {
+                "id": 7,
+                "image": "https://images.unsplash.com/photo-1627834377411-8da5f4f09de8?q=80&w=800&auto=format&fit=crop",
+                "category": "Tier Cakes",
+                "title": "Multi-Tier Elegance",
+                "description": "Stunning tiered cake for grand celebrations",
+                "likes": 645,
+                "comments": 52,
+                "instagramUrl": "https://www.instagram.com/p/DQRcEH6ElTQ/?hl=en"
+            },
+            {
+                "id": 8,
+                "image": "https://images.unsplash.com/photo-1562777717-dc6984f65a63?q=80&w=800&auto=format&fit=crop",
+                "category": "Tier Cakes",
+                "title": "Classic Tiered Design",
+                "description": "Traditional multi-tier cake with modern touch",
+                "likes": 523,
+                "comments": 41,
+                "instagramUrl": "https://www.instagram.com/p/DO-T6IIEnLb/?hl=en&img_index=1"
+            },
+            {
+                "id": 9,
+                "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=800&auto=format&fit=crop",
+                "category": "Tier Cakes",
+                "title": "Luxury Tier Cake",
+                "description": "Premium tiered cake with gold accents",
+                "likes": 478,
+                "comments": 38,
+                "instagramUrl": "https://www.instagram.com/p/DO-TiCbEqaw/?hl=en&img_index=1"
+            },
+            {
+                "id": 10,
+                "image": "https://images.unsplash.com/photo-1563729768640-d36d4999a33e?q=80&w=800&auto=format&fit=crop",
+                "category": "Tier Cakes",
+                "title": "Wedding Tier Cake",
+                "description": "Elegant wedding cake with floral details",
+                "likes": 712,
+                "comments": 58,
+                "instagramUrl": "https://www.instagram.com/p/DOp2IehkuW4/?hl=en"
+            },
+            {
+                "id": 11,
+                "image": "https://images.unsplash.com/photo-1535141192574-5d4897c12636?q=80&w=800&auto=format&fit=crop",
+                "category": "Tier Cakes",
+                "title": "Grand Celebration Tier",
+                "description": "Majestic tiered cake for special events",
+                "likes": 589,
+                "comments": 47,
+                "instagramUrl": "https://www.instagram.com/p/DOp1iXdEvca/?hl=en&img_index=1"
+            },
+            {
+                "id": 12,
+                "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop",
+                "category": "Tier Cakes",
+                "title": "Classic White Tier",
+                "description": "Timeless white tiered cake design",
+                "likes": 445,
+                "comments": 36,
+                "instagramUrl": "https://www.instagram.com/p/DLNEFxtyyyp/?hl=en"
+            },
+            {
+                "id": 13,
+                "image": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?q=80&w=800&auto=format&fit=crop",
+                "category": "Object Shaped",
+                "title": "3D Object Cake",
+                "description": "Realistic object-shaped cake creation",
+                "likes": 834,
+                "comments": 67,
+                "instagramUrl": "https://www.instagram.com/p/DJo3FjhTCM5/?hl=en&img_index=1"
+            },
+            {
+                "id": 14,
+                "image": "https://images.unsplash.com/photo-1557308536-ee471ef2c39a?q=80&w=800&auto=format&fit=crop",
+                "category": "Object Shaped",
+                "title": "Sculpted Object Design",
+                "description": "Intricately sculpted object cake",
+                "likes": 756,
+                "comments": 61,
+                "instagramUrl": "https://www.instagram.com/p/DHGxQQroaGr/?hl=en"
+            },
+            {
+                "id": 15,
+                "image": "https://images.unsplash.com/photo-1627834377411-8da5f4f09de8?q=80&w=800&auto=format&fit=crop",
+                "category": "Object Shaped",
+                "title": "Custom Object Cake",
+                "description": "Personalized object-shaped masterpiece",
+                "likes": 623,
+                "comments": 49,
+                "instagramUrl": "https://www.instagram.com/p/DFUZHx1SZoY/?hl=en"
+            },
+            {
+                "id": 16,
+                "image": "https://images.unsplash.com/photo-1562777717-dc6984f65a63?q=80&w=800&auto=format&fit=crop",
+                "category": "Object Shaped",
+                "title": "Realistic Object Replica",
+                "description": "Amazingly realistic object cake",
+                "likes": 891,
+                "comments": 72,
+                "instagramUrl": "https://www.instagram.com/p/DFFb0c7ygPw/?hl=en"
+            },
+            {
+                "id": 17,
+                "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=800&auto=format&fit=crop",
+                "category": "Object Shaped",
+                "title": "Creative Object Design",
+                "description": "Innovative object-shaped cake",
+                "likes": 567,
+                "comments": 44,
+                "instagramUrl": "https://www.instagram.com/p/DADpUxoSX7G/?hl=en"
+            },
+            {
+                "id": 18,
+                "image": "https://images.unsplash.com/photo-1563729768640-d36d4999a33e?q=80&w=800&auto=format&fit=crop",
+                "category": "Object Shaped",
+                "title": "Detailed Object Cake",
+                "description": "Meticulously crafted object cake",
+                "likes": 734,
+                "comments": 59,
+                "instagramUrl": "https://www.instagram.com/p/C500pUhSkAI/?hl=en"
+            },
+            {
+                "id": 19,
+                "image": "https://images.unsplash.com/photo-1535141192574-5d4897c12636?q=80&w=800&auto=format&fit=crop",
+                "category": "Brownies",
+                "title": "Gourmet Brownies",
+                "description": "Rich, fudgy chocolate brownies",
+                "likes": 312,
+                "comments": 24,
+                "instagramUrl": "https://www.instagram.com/p/DKgwJyMyNMW/?hl=en"
+            },
+            {
+                "id": 20,
+                "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop",
+                "category": "Brownies",
+                "title": "Premium Brownies",
+                "description": "Decadent chocolate brownies with toppings",
+                "likes": 289,
+                "comments": 19,
+                "instagramUrl": "https://www.instagram.com/p/DGVSJe1Ir_E/?hl=en"
+            },
+            {
+                "id": 21,
+                "image": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?q=80&w=800&auto=format&fit=crop",
+                "category": "Brownies",
+                "title": "Classic Brownies",
+                "description": "Traditional fudgy brownies",
+                "likes": 267,
+                "comments": 17,
+                "instagramUrl": "https://www.instagram.com/p/C5r7gRWy_TN/?hl=en"
+            },
+            {
+                "id": 22,
+                "image": "https://images.unsplash.com/photo-1557308536-ee471ef2c39a?q=80&w=800&auto=format&fit=crop",
+                "category": "Cupcakes",
+                "title": "Designer Cupcakes",
+                "description": "Beautifully decorated cupcake collection",
+                "likes": 423,
+                "comments": 34,
+                "instagramUrl": "https://www.instagram.com/p/DGQl84xSVo7/?hl=en"
+            },
+            {
+                "id": 23,
+                "image": "https://images.unsplash.com/photo-1627834377411-8da5f4f09de8?q=80&w=800&auto=format&fit=crop",
+                "category": "Cupcakes",
+                "title": "Gourmet Cupcakes",
+                "description": "Premium cupcakes with creative frosting",
+                "likes": 378,
+                "comments": 29,
+                "instagramUrl": "https://www.instagram.com/p/C7d-4_byj8i/?hl=en"
+            },
+            {
+                "id": 24,
+                "image": "https://images.unsplash.com/photo-1562777717-dc6984f65a63?q=80&w=800&auto=format&fit=crop",
+                "category": "Cupcakes",
+                "title": "Artisan Cupcakes",
+                "description": "Handcrafted cupcakes with unique flavors",
+                "likes": 345,
+                "comments": 27,
+                "instagramUrl": "https://www.instagram.com/p/C7OmC6TSv-z/?hl=en"
+            },
+            {
+                "id": 25,
+                "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=800&auto=format&fit=crop",
+                "category": "Cupcakes",
+                "title": "Celebration Cupcakes",
+                "description": "Festive cupcakes for special occasions",
+                "likes": 412,
+                "comments": 33,
+                "instagramUrl": "https://www.instagram.com/p/C6_su7qSS-O/?hl=en"
+            },
+            {
+                "id": 26,
+                "image": "https://images.unsplash.com/photo-1563729768640-d36d4999a33e?q=80&w=800&auto=format&fit=crop",
+                "category": "Cupcakes",
+                "title": "Elegant Cupcakes",
+                "description": "Sophisticated cupcake designs",
+                "likes": 389,
+                "comments": 31,
+                "instagramUrl": "https://www.instagram.com/p/C6xrOTdSCgH/?hl=en"
+            },
+            {
+                "id": 27,
+                "image": "https://images.unsplash.com/photo-1535141192574-5d4897c12636?q=80&w=800&auto=format&fit=crop",
+                "category": "Cupcakes",
+                "title": "Deluxe Cupcakes",
+                "description": "Luxury cupcake assortment",
+                "likes": 456,
+                "comments": 37,
+                "instagramUrl": "https://www.instagram.com/p/C26pVnrv7k7/?hl=en&img_index=1"
+            },
+            {
+                "id": 28,
+                "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop",
+                "category": "Rotating Cakes",
+                "title": "Musical Rotating Cake",
+                "description": "Magical rotating cake with music",
+                "likes": 923,
+                "comments": 76,
+                "instagramUrl": "https://www.instagram.com/p/DKV_7ufywRP/?hl=en"
+            },
+            {
+                "id": 29,
+                "image": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?q=80&w=800&auto=format&fit=crop",
+                "category": "Rotating Cakes",
+                "title": "Carousel Rotating Cake",
+                "description": "Enchanting carousel cake with rotating mechanism",
+                "likes": 867,
+                "comments": 69,
+                "instagramUrl": "https://www.instagram.com/p/C-pGJI4SgLM/?hl=en&img_index=1"
+            }
+        ]
+    },
+    "testimonials": {
+        "title": "What Our Customers Say",
+        "items": [
+            {
+                "text": "Loved the detailing and taste of the cake. Tanya delivered exactly what we imagined for our daughter’s birthday!",
+                "author": "Happy Customer"
+            },
+            {
+                "text": "Her baking class was so easy to follow. I made my first perfect cake the very same day. Highly recommend!",
+                "author": "Student"
+            }
+        ]
+    },
+    "enquiry": {
+        "title": "Ready to Order or Join a Class?",
+        "content": "Contact Tanya directly for custom quotes, class schedules or availability.",
+        "cta": "Enquire on WhatsApp",
+        "whatsappNumber": "919876543210",
+        "notes": [
+            "Operating Hours: 9:30 AM – 9:00 PM",
+            "Minimum 3 Days Pre-Order Required"
+        ]
+    },
+    "footer": {
+        "brand": "Tanya’s Baking",
+        "address": "Madambakkam, Chennai",
+        "tagline": "FSSAI Approved Home Bakery",
+        "socials": {
+            "instagram": "#",
+            "whatsapp": "#"
+        },
+        "copyright": "© 2025 Tanya’s Baking. All Rights Reserved."
+    }
+}

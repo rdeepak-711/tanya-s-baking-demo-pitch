@@ -28,20 +28,11 @@ export const metadata: Metadata = {
         siteName: "Tanya's Baking",
         locale: "en_IN",
         type: "website",
-        images: [
-            {
-                url: "/about.jpeg", // Using the about image as the social preview for now
-                width: 1200,
-                height: 630,
-                alt: "Tanya's Baking Creations",
-            },
-        ],
     },
     twitter: {
         card: "summary_large_image",
         title: "Tanya's Baking | Custom Cakes & Classes in Chennai",
         description: "Handcrafted custom cakes and professional baking workshops in Madambakkam, Chennai.",
-        images: ["/about.jpeg"],
     },
     robots: {
         index: true,

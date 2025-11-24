@@ -2,7 +2,7 @@
 
 A premium, high-performance portfolio website for **Tanya's Baking**, a home-grown FSSAI-approved baking studio in Madambakkam, Chennai.
 
-![Tanya's Baking Preview](src/data/about.jpeg)
+![Tanya's Baking Preview](public/about.jpeg)
 
 ## ✨ Features
 

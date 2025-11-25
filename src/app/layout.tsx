@@ -6,7 +6,7 @@ import { Metadata } from "next";
 const outfit = Outfit({ subsets: ["latin"], variable: "--font-outfit" });
 
 export const metadata: Metadata = {
-    metadataBase: new URL("https://tanyas-baking.vercel.app"),
+    metadataBase: new URL("https://tanya-s-baking-demo.vercel.app"),
     title: {
         default: "Tanya's Baking | Custom Cakes & Classes in Chennai",
         template: "%s | Tanya's Baking"
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     openGraph: {
         title: "Tanya's Baking | Custom Cakes & Classes in Chennai",
         description: "Handcrafted custom cakes and professional baking workshops in Madambakkam, Chennai. FSSAI approved.",
-        url: "https://tanyas-baking.vercel.app",
+        url: "https://tanya-s-baking-demo.vercel.app",
         siteName: "Tanya's Baking",
         locale: "en_IN",
         type: "website",

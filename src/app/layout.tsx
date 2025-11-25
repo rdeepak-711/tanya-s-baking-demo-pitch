@@ -2,6 +2,7 @@ import { Outfit } from "next/font/google";
 import "./globals.css";
 import { cn } from "@/lib/utils";
 import { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 
 const outfit = Outfit({ subsets: ["latin"], variable: "--font-outfit" });
 
@@ -56,6 +57,7 @@ export default function RootLayout({
         <html lang="en" className="scroll-smooth">
             <body className={cn(outfit.variable, "antialiased bg-background text-foreground")}>
                 {children}
+                <Analytics />
             </body>
         </html>
     );

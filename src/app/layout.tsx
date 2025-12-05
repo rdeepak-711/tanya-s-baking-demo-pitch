@@ -55,6 +55,23 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en" className="scroll-smooth">
+            <head>
+                <link rel="preconnect" href="https://fonts.googleapis.com" />
+                <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+                <link
+                    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600&display=swap"
+                    rel="stylesheet"
+                />
+                <script dangerouslySetInnerHTML={{
+                    __html: `
+                    var ahrefs_analytics_script = document.createElement('script');
+                    ahrefs_analytics_script.async = true;
+                    ahrefs_analytics_script.src = 'https://analytics.ahrefs.com/analytics.js';
+                    ahrefs_analytics_script.setAttribute('data-key', 'Y+dSor4NTHjWJvwoHMFYEQ');
+                    document.getElementsByTagName('head')[0].appendChild(ahrefs_analytics_script);
+                  `
+                }} />
+            </head>
             <body className={cn(outfit.variable, "antialiased bg-background text-foreground")}>
                 {children}
                 <Analytics />
